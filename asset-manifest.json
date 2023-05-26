@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c88efc5.css",
+    "main.js": "/static/js/main.300822ff.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Buddiary.gif": "/static/media/Buddiary.db16a51b113abd5c29e9.gif",
+    "static/media/BuddiaryM.gif": "/static/media/BuddiaryM.d6af05d2a976dde14fda.gif",
+    "static/media/zzalu.gif": "/static/media/zzalu.bae307e42387d10c6939.gif",
+    "static/media/returnz.gif": "/static/media/returnz.523ba925c737e59729a4.gif",
+    "static/media/Kjy.jpg": "/static/media/Kjy.baaa36306f3fc0b146d9.jpg",
+    "static/media/WillumpTV.jpg": "/static/media/WillumpTV.ea0cfe5963448880df76.jpg",
+    "static/media/iphone.png": "/static/media/iphone.cb533f32ea69a8bce4f8.png",
+    "static/media/monitor.png": "/static/media/monitor.4349c969ff355313f3fc.png",
+    "static/media/UsingTools.gif": "/static/media/UsingTools.de076a9d0a6890b77a25.gif",
+    "static/media/NosignalM.png": "/static/media/NosignalM.e50f4faf542043b8adba.png",
+    "static/media/github.png": "/static/media/github.e8efa7f43ecd05b0a5e4.png",
+    "static/media/tistory.png": "/static/media/tistory.bc4bd7526b74a242befe.png",
+    "index.html": "/index.html",
+    "main.7c88efc5.css.map": "/static/css/main.7c88efc5.css.map",
+    "main.300822ff.js.map": "/static/js/main.300822ff.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c88efc5.css",
+    "static/js/main.300822ff.js"
+  ]
+}
