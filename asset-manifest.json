@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb955cc8.css",
-    "main.js": "/static/js/main.0cde56ba.js",
+    "main.css": "/static/css/main.bc75bf00.css",
+    "main.js": "/static/js/main.cab799de.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Buddiary.jpg": "/static/media/Buddiary.db16a51b113abd5c29e9.jpg",
-    "static/media/BuddiaryM.jpg": "/static/media/BuddiaryM.d6af05d2a976dde14fda.jpg",
-    "static/media/zzalu.jpg": "/static/media/zzalu.bae307e42387d10c6939.jpg",
-    "static/media/returnz.jpg": "/static/media/returnz.523ba925c737e59729a4.jpg",
     "static/media/Kjy.jpg": "/static/media/Kjy.baaa36306f3fc0b146d9.jpg",
     "static/media/WillumpTVThumnail.png": "/static/media/WillumpTVThumnail.eaf9906108d3990889fa.png",
     "static/media/ZzaluThumnail.png": "/static/media/ZzaluThumnail.0abd1014f2881b802340.png",
+    "static/media/BuddiaryM.png": "/static/media/BuddiaryM.f55e71cb1ea5cae7a4d5.png",
     "static/media/WillumpTV.jpg": "/static/media/WillumpTV.ea0cfe5963448880df76.jpg",
     "static/media/BudDiaryThumnail.png": "/static/media/BudDiaryThumnail.c6a5759884463175acf8.png",
+    "static/media/returnz.png": "/static/media/returnz.9e1a2540b9663cb4af6e.png",
+    "static/media/Buddiary.png": "/static/media/Buddiary.1d01fdfff26c647b25a3.png",
+    "static/media/zzalu.png": "/static/media/zzalu.f9adc7f41e6992a110a4.png",
     "static/media/iphone.png": "/static/media/iphone.cb533f32ea69a8bce4f8.png",
     "static/media/ReturnzThumnail.png": "/static/media/ReturnzThumnail.ec3afa0b1ff7a8d37d74.png",
     "static/media/monitor.png": "/static/media/monitor.4349c969ff355313f3fc.png",
@@ -20,12 +20,12 @@
     "static/media/github.png": "/static/media/github.e8efa7f43ecd05b0a5e4.png",
     "static/media/tistory.png": "/static/media/tistory.bc4bd7526b74a242befe.png",
     "index.html": "/index.html",
-    "main.fb955cc8.css.map": "/static/css/main.fb955cc8.css.map",
-    "main.0cde56ba.js.map": "/static/js/main.0cde56ba.js.map",
+    "main.bc75bf00.css.map": "/static/css/main.bc75bf00.css.map",
+    "main.cab799de.js.map": "/static/js/main.cab799de.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb955cc8.css",
-    "static/js/main.0cde56ba.js"
+    "static/css/main.bc75bf00.css",
+    "static/js/main.cab799de.js"
   ]
 }
