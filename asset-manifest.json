@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc75bf00.css",
-    "main.js": "/static/js/main.cab799de.js",
+    "main.js": "/static/js/main.d169a0e9.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Kjy.jpg": "/static/media/Kjy.baaa36306f3fc0b146d9.jpg",
     "static/media/WillumpTVThumnail.png": "/static/media/WillumpTVThumnail.eaf9906108d3990889fa.png",
@@ -21,11 +21,11 @@
     "static/media/tistory.png": "/static/media/tistory.bc4bd7526b74a242befe.png",
     "index.html": "/index.html",
     "main.bc75bf00.css.map": "/static/css/main.bc75bf00.css.map",
-    "main.cab799de.js.map": "/static/js/main.cab799de.js.map",
+    "main.d169a0e9.js.map": "/static/js/main.d169a0e9.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc75bf00.css",
-    "static/js/main.cab799de.js"
+    "static/js/main.d169a0e9.js"
   ]
 }
